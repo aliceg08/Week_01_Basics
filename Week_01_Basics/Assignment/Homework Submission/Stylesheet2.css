@@ -1,5 +1,5 @@
 body{
-	background-color:#F5F5F5;
+	background-color: #F5F5F5;
 }
 nav{
 	text-align: center;
@@ -11,8 +11,8 @@ h2{
 	bold
 }
 #top{
-	border:1px solid black;
-	height:8px;
-	color:#000000;
-	background-color:#000000;
+	border: 1px solid black;
+	height: 8px;
+	color: #000000;
+	background-color: #000000;
 }
